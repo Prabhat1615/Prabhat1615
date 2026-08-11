@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./prabhat-logo.png" width="150" alt="Prabhat Kumar Logo">
+  <img src="./assets/prabhat-logo.png" width="150" alt="Prabhat Kumar Logo">
 </p>
 
 <h1 align="center">Hi, I'm Prabhat Kumar 👋</h1>
