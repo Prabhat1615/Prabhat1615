@@ -1,20 +1,25 @@
-# Hi, I'm Prabhat Kumar 👋
-
-### Full Stack Developer | React.js | Node.js | Express.js | MongoDB
-
-I build real-world web applications with a focus on clean user experiences, reliable backend systems, REST APIs, and scalable business workflows.
-
-<p align="left">
-  <a href="https://prabhat-portfolio-lake.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/prabhat-kumar-4b120326b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Prabhat1615">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<p align="center">
+  <img src="./prabhat-logo.png" width="150" alt="Prabhat Kumar Logo">
 </p>
+
+<h1 align="center">Hi, I'm Prabhat Kumar 👋</h1>
+
+<p align="center">
+  <strong>Full Stack Developer | React.js | Node.js | Express.js | MongoDB</strong>
+</p>
+
+<p align="center">
+  I build real-world web applications with a focus on clean user experiences,
+  reliable backend systems, REST APIs, and scalable business workflows.
+</p>
+
+<p align="center">
+  <a href="https://prabhat-portfolio-lake.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/prabhat-kumar-4b120326b/">LinkedIn</a> •
+  <a href="https://github.com/Prabhat1615">GitHub</a>
+</p>
+
+---
 
 ---
 
