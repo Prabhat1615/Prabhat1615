@@ -2,13 +2,19 @@
 
 ### Full Stack Developer | React.js | Node.js | Express.js | MongoDB
 
-I build real-world web applications with a focus on clean user
-experiences, reliable backend systems, REST APIs, and scalable
-business workflows.
+I build real-world web applications with a focus on clean user experiences, reliable backend systems, REST APIs, and scalable business workflows.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square)](https://prabhat-portfolio-lake.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/prabhat-kumar-4b120326b/)
-[![GitHub](https://img.shields.io/badge/GitHub-Prabhat1615-181717?style=flat-square)](https://github.com/Prabhat1615)
+<p align="left">
+  <a href="https://prabhat-portfolio-lake.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/prabhat-kumar-4b120326b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Prabhat1615">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
@@ -21,7 +27,7 @@ business workflows.
 - 🔐 Implementing authentication, authorization and secure APIs
 - 🌐 Building RESTful APIs and full-stack applications
 - 🚀 Interested in scalable backend systems and real-world products
-- 📚 Continuously learning and improving my software engineering skills
+- 📚 Continuously improving my software engineering and problem-solving skills
 
 ---
 
@@ -29,39 +35,23 @@ business workflows.
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=ffffff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
+`JavaScript` `Java` `Python` `HTML5` `CSS3`
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff)
+`React.js` `Redux` `Tailwind CSS`
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=ffffff)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=ffffff)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
+`Node.js` `Express.js` `REST APIs` `JWT Authentication`
 
 ### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=ffffff)
+`MongoDB` `MySQL` `PostgreSQL`
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ffffff)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=000000)
+`Git` `GitHub` `VS Code` `Postman` `Vercel` `Render`
 
 ---
 
@@ -69,8 +59,7 @@ business workflows.
 
 ### 🏪 Uday Electrical Works
 
-A full-stack business management and e-commerce platform designed
-for an electrical retail and service business.
+A full-stack business management and e-commerce platform designed for an electrical retail and service business.
 
 **Key Features**
 
@@ -85,25 +74,23 @@ for an electrical retail and service business.
 
 **Tech:** React.js • Node.js • Express.js • MongoDB
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/Prabhat1615/uday-electrical-works)
+[View Repository →](https://github.com/Prabhat1615/uday-electrical-works)
 
 ---
 
 ### 🍴 Zayka Food Delivery
 
-A full-stack food delivery platform focused on restaurant,
-menu, ordering and customer workflows.
+A full-stack food delivery platform focused on restaurant, menu, ordering and customer workflows.
 
 **Tech:** React.js • Node.js • Express.js • MongoDB
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/Prabhat1615/Zayka_Food_Delivery)
+[View Repository →](https://github.com/Prabhat1615/Zayka_Food_Delivery)
 
 ---
 
 ### 📚 StudyNotion
 
-A full-stack online learning platform with user authentication,
-course management and learning workflows.
+A full-stack online learning platform with authentication, course management and learning workflows.
 
 **Tech:** React.js • Redux • Node.js • Express.js • MongoDB
 
@@ -111,8 +98,7 @@ course management and learning workflows.
 
 ### 🛡️ SHIELD
 
-An Android security application designed to detect potentially
-malicious applications, URLs and files.
+An Android security application designed to detect potentially malicious applications, URLs and files.
 
 **Key Features**
 
@@ -128,45 +114,82 @@ malicious applications, URLs and files.
 
 ### 📋 Sprint Board
 
-An agile project management application designed to organize
-tasks, projects and development workflows.
+An agile project management application designed to organize tasks, projects and development workflows.
 
 **Tech:** JavaScript • React.js • Node.js
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/Prabhat1615/Sprint_Board)
+[View Repository →](https://github.com/Prabhat1615/Sprint_Board)
 
 ---
 
-### 💼 Portfolio
+### 💼 Developer Portfolio
 
-My personal developer portfolio showcasing my skills, projects,
-experience and development work.
+My personal portfolio showcasing my projects, skills, experience and development work.
 
 **Tech:** HTML • CSS • JavaScript
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/Prabhat1615/portfolio)
+[View Repository →](https://github.com/Prabhat1615/portfolio)
 
-[![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-0A66C2?style=flat-square)](https://prabhat-portfolio-lake.vercel.app/)
+[Visit Portfolio →](https://prabhat-portfolio-lake.vercel.app/)
 
 ---
 
 ## 🧩 What I Build
 
-```text
-                    Full Stack Applications
-                             │
-              ┌──────────────┴──────────────┐
-              │                             │
-          Frontend                       Backend
-              │                             │
-       React.js + UI              Node.js + Express
-              │                             │
-              └──────────────┬──────────────┘
-                             │
-                       REST APIs
-                             │
-                 Authentication & Logic
-                             │
-                    MongoDB / SQL
-                             │
-                    Deployment & CI/CD
+| Area | Technologies |
+|---|---|
+| Frontend | React.js • Redux • Tailwind CSS |
+| Backend | Node.js • Express.js |
+| APIs | REST APIs • Authentication |
+| Security | JWT • Authorization |
+| Databases | MongoDB • MySQL • PostgreSQL |
+| Deployment | Vercel • Render |
+| Development | Git • GitHub • VS Code • Postman |
+
+---
+## 🎯 Current Focus
+
+- Building production-ready full-stack applications
+- Improving backend architecture and API design
+- Writing clean and maintainable JavaScript
+- Learning scalable system design
+- Improving database design and query performance
+- Building secure authentication and authorization systems
+- Developing real-world business applications
+- Strengthening software engineering and problem-solving skills
+
+---
+
+## 💼 What I'm Looking For
+
+I'm interested in opportunities where I can contribute to real-world software products, work with experienced engineering teams, and continue growing as a Full Stack / Backend Developer.
+
+### Interested In
+
+- Full Stack Development
+- Backend Development
+- Node.js & Express.js
+- REST API Development
+- MERN Stack Applications
+- Database-driven Applications
+- Software Engineering
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://prabhat-portfolio-lake.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/prabhat-kumar-4b120326b/">LinkedIn</a> •
+  <a href="https://github.com/Prabhat1615">GitHub</a>
+</p>
+
+---
+
+## ⭐ Thanks for Visiting
+
+Thanks for taking the time to explore my GitHub profile.
+
+Feel free to explore my repositories and projects.
+
+**Let's build something meaningful. 🚀**
