@@ -83,9 +83,21 @@ A full-stack business management and e-commerce platform designed for an electri
 
 ---
 
+### 📚 StudyNotion
+
+A full-stack online learning platform with authentication, course management, user workflows, and learning features.
+
+**Tech:** React.js • Redux • Node.js • Express.js • MongoDB
+
+[View Repository →](https://github.com/Prabhat1615/StudyNotion)
+
+[Visit Live Application →](https://studynotion-edtech-project-main-gules.vercel.app/)
+
+---
+
 ### 🍴 Zayka Food Delivery
 
-A full-stack food delivery platform focused on restaurant, menu, ordering and customer workflows.
+A full-stack food delivery platform focused on restaurant, menu, ordering, and customer workflows.
 
 **Tech:** React.js • Node.js • Express.js • MongoDB
 
@@ -93,52 +105,37 @@ A full-stack food delivery platform focused on restaurant, menu, ordering and cu
 
 ---
 
-### 📚 StudyNotion
+### 💬 Real-Time Chat App
 
-A full-stack online learning platform with authentication, course management and learning workflows.
-
-**Tech:** React.js • Redux • Node.js • Express.js • MongoDB
-
----
-
-### 🛡️ SHIELD
-
-An Android security application designed to detect potentially malicious applications, URLs and files.
+A real-time chat application focused on instant communication and live messaging between users.
 
 **Key Features**
 
-- URL scanning
-- Malicious application detection
-- APK scanning
-- Security-focused workflows
-- File protection capabilities
+- Real-time messaging
+- Live communication
+- Responsive chat interface
+- Client-server communication
+- Real-time event handling
 
-**Tech:** Kotlin • Android • Security APIs
+**Tech:** React.js • Node.js • Express.js • Socket.IO
 
----
+[View Repository →](https://github.com/Prabhat1615/realtime-chat-app)
 
-### 📋 Sprint Board
-
-An agile project management application designed to organize tasks, projects and development workflows.
-
-**Tech:** JavaScript • React.js • Node.js
-
-[View Repository →](https://github.com/Prabhat1615/Sprint_Board)
+[Visit Live Application →](https://realtime-chat-app-seven-delta.vercel.app/)
 
 ---
 
 ### 💼 Developer Portfolio
 
-My personal portfolio showcasing my projects, skills, experience and development work.
+My personal developer portfolio showcasing my projects, technical skills, experience, and development work.
 
-**Tech:** HTML • CSS • JavaScript
+**Tech:** React.js • JavaScript • HTML • CSS
 
 [View Repository →](https://github.com/Prabhat1615/portfolio)
 
-[Visit Portfolio →](https://prabhat-portfolio-lake.vercel.app/)
+[Visit Live Portfolio →](https://prabhat-portfolio-lake.vercel.app/)
 
 ---
-
 ## 🧩 What I Build
 
 | Area | Technologies |
