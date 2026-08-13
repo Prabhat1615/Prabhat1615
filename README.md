@@ -31,7 +31,7 @@
 - 🗄️ Working with MongoDB, MySQL and PostgreSQL
 - 🔐 Implementing authentication, authorization and secure APIs
 - 🌐 Building RESTful APIs and full-stack applications
-- 🚀 Interested in scalable backend systems and real-world problems
+- 🚀 Interested in scalable backend systems and real-world products
 - 📚 Continuously improving my software engineering and problem-solving skills
 
 ---
